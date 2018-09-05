@@ -11,7 +11,7 @@ from src.unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
     login="ajirezacom",
-    password="nurulmutoharoh",
+    password="ajinak13",
     like_per_day=1000,
     comments_per_day=100,
     tag_list=['dagelan', 'teman', 'poem', 'awreceh', 'baper', 'mantan', 'fakta', 'l:214427142', 'l:219087144', 'l:555739489', 'l:1621897044789504', 'l:17828839', 
